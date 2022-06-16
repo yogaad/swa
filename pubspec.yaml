@@ -1,0 +1,38 @@
+name: swa
+version: 1.0.0+1
+publish_to: none
+description: Swa
+environment: 
+  sdk: '>=2.16.1 <3.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.2
+  get: ^4.6.5
+  responsive_sizer: 3.0.4+4
+  image_picker: ^0.8.5
+  image_cropper: ^2.0.2
+  flutter_image_compress: ^1.1.0
+  flutter_svg: ^1.0.3
+  fitted_text_field_container: ^2.0.0
+  get_storage: ^2.0.3 
+  flutter: 
+    sdk: flutter
+  intl: ^0.17.0
+
+dev_dependencies: 
+  flutter_lints: ^1.0.0
+  flutter_test: 
+    sdk: flutter
+
+
+ 
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  # image_path: "assets/icons/newlogo.png"
+flutter: 
+  assets: 
+    - assets/images/
+  uses-material-design: true
+
