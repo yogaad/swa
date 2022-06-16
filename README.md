@@ -1,16 +1,19 @@
-# swa
+# swamedia informatika Technical test
 
-A new Flutter project.
+Flutter version 3.02 stable | statement getX
 
-## Getting Started
+## Installation
 
-This project is a starting point for a Flutter application.
+- Clone project 
+- run terminal on folder project `flutter pub get ` , `flutter clean` 
+- run Project `flutter run`
+- done
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshot Result
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://user-images.githubusercontent.com/95198259/174066060-0f34171c-7177-4891-9d3f-e87b6fae1afb.png
+
+https://user-images.githubusercontent.com/95198259/174066277-a16102b1-e782-42f3-b1f2-e4d3eeb7fee7.png
+
+https://user-images.githubusercontent.com/95198259/174066362-6ddcdc64-51e9-407b-b409-a0bbd17e38d2.png
